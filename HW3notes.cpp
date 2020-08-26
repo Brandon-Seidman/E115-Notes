@@ -1,3 +1,6 @@
+//BRANDON SEIDMAN - 2020
+//E115
+
 #include <iostream>
 
 using namespace std;

@@ -1,3 +1,6 @@
+//BRANDON SEIDMAN - 2020
+//E115
+
 #include <iostream>
 #include <cmath>  //<cmath> INCLUDES FUNCTIONS SUCH AS "pow(x,y)" THAT WILL BE USEFUL FOR THE CHECK+
                   //YOU WON'T NEED THIS FOR THE BASE ASSIGNMENT THOUGH
